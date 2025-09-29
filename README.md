@@ -31,3 +31,13 @@ It includes VM setup, database creation, file transfer, and final application te
 ---
 
 ## 📂 Repository Structure
+udc-project-screenshots/
+├── Project_ScreenShots/
+│ ├── WebServer VM.PNG
+│ ├── DBServer VM.PNG
+│ ├── DB_creation.PNG
+│ ├── WinSCP.PNG
+│ ├── data.PNG
+│ ├── udc_url.PNG
+│ └── after_submission.PNG
+└── README.md
